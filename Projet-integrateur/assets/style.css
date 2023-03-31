@@ -1,0 +1,16 @@
+body{
+    background-image: url('img/background.jpg');
+    
+}
+footer{
+    text-align: center;
+    position: absolute;
+    bottom : 0;
+    width: 100%;
+    height: 50px;
+    color: white;
+    font-size: larger;
+}
+h1{
+    text-align: center;
+}
